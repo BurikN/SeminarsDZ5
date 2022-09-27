@@ -1,0 +1,15 @@
+C:\Users\grut1\Desktop\SeminarsDZ5\DZ5\obj\Debug\net6.0\DZ5.csproj.AssemblyReference.cache
+C:\Users\grut1\Desktop\SeminarsDZ5\DZ5\obj\Debug\net6.0\DZ5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grut1\Desktop\SeminarsDZ5\DZ5\obj\Debug\net6.0\DZ5.AssemblyInfoInputs.cache
+C:\Users\grut1\Desktop\SeminarsDZ5\DZ5\obj\Debug\net6.0\DZ5.AssemblyInfo.cs
+C:\Users\grut1\Desktop\SeminarsDZ5\DZ5\obj\Debug\net6.0\DZ5.csproj.CoreCompileInputs.cache
+C:\Users\grut1\Desktop\SeminarsDZ5\DZ5\bin\Debug\net6.0\DZ5.exe
+C:\Users\grut1\Desktop\SeminarsDZ5\DZ5\bin\Debug\net6.0\DZ5.deps.json
+C:\Users\grut1\Desktop\SeminarsDZ5\DZ5\bin\Debug\net6.0\DZ5.runtimeconfig.json
+C:\Users\grut1\Desktop\SeminarsDZ5\DZ5\bin\Debug\net6.0\DZ5.dll
+C:\Users\grut1\Desktop\SeminarsDZ5\DZ5\bin\Debug\net6.0\DZ5.pdb
+C:\Users\grut1\Desktop\SeminarsDZ5\DZ5\obj\Debug\net6.0\DZ5.dll
+C:\Users\grut1\Desktop\SeminarsDZ5\DZ5\obj\Debug\net6.0\refint\DZ5.dll
+C:\Users\grut1\Desktop\SeminarsDZ5\DZ5\obj\Debug\net6.0\DZ5.pdb
+C:\Users\grut1\Desktop\SeminarsDZ5\DZ5\obj\Debug\net6.0\DZ5.genruntimeconfig.cache
+C:\Users\grut1\Desktop\SeminarsDZ5\DZ5\obj\Debug\net6.0\ref\DZ5.dll
